@@ -1,0 +1,8 @@
+{"source": "source/0.png", "target": "target/0.png", "prompt": "Nightdiff, lighting_level 1, POI_level 7"}
+{"source": "source/1.png", "target": "target/1.png", "prompt": "Nightdiff, lighting_level 5, POI_level 7"}
+{"source": "source/2.png", "target": "target/2.png", "prompt": "Nightdiff, lighting_level 3, POI_level 3"}
+{"source": "source/3.png", "target": "target/3.png", "prompt": "Nightdiff, lighting_level 5, POI_level 5"}
+{"source": "source/4.png", "target": "target/4.png", "prompt": "Nightdiff, lighting_level 6, POI_level 7"}
+{"source": "source/5.png", "target": "target/5.png", "prompt": "Nightdiff, lighting_level 8, POI_level 4"}
+{"source": "source/6.png", "target": "target/6.png", "prompt": "Nightdiff, lighting_level 1, POI_level 5"}
+{"source": "source/7.png", "target": "target/7.png", "prompt": "Nightdiff, lighting_level 10, POI_level 8"}
