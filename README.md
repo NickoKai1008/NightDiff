@@ -10,7 +10,6 @@ The data copyright of the NightDiff pre-training model is provided by Ye, X., an
 The visuofunctional calculation method is inspired by Shen, Y. and Wu, Z. (2022), with the development copyright held by Wang, Y., and Xiang, Y.
 
 
-<img width="2058" height="516" alt="samples_cfg_scale_9 00_gs-149787_e-000979_b-000000" src="https://github.com/user-attachments/assets/32a428fa-6cad-4f68-872b-1f60f1f7e1d9" />
 <img width="2058" height="516" alt="samples_cfg_scale_9 00_gs-150705_e-000985_b-000000" src="https://github.com/user-attachments/assets/d13eebc5-169f-413a-a279-9a11af76b125" />
 <img width="2058" height="516" alt="samples_cfg_scale_9 00_gs-151623_e-000991_b-000000" src="https://github.com/user-attachments/assets/7cb6079c-3cf3-4267-8437-aa21478f2d2b" />
 <img width="2058" height="516" alt="samples_cfg_scale_9 00_gs-070380_e-000460_b-000000" src="https://github.com/user-attachments/assets/b6135d94-a974-4388-9023-3f20ad1725dd" />
