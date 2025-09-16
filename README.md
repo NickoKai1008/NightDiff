@@ -14,5 +14,5 @@ The visuofunctional calculation method is inspired by Shen, Y. and Wu, Z. (2022)
 <img width="2058" height="516" alt="samples_cfg_scale_9 00_gs-070380_e-000460_b-000000" src="https://github.com/user-attachments/assets/b6135d94-a974-4388-9023-3f20ad1725dd" />
 <img width="2058" height="516" alt="samples_cfg_scale_9 00_gs-006732_e-000044_b-000000" src="https://github.com/user-attachments/assets/add13e20-f341-45a2-afa0-5e2e60577df1" />
 <img width="2058" height="516" alt="reconstruction_gs-050031_e-000327_b-000000" src="https://github.com/user-attachments/assets/0748e896-0bc1-4c91-bea8-18846509e97c" />
-<img width="3849" height="2666" alt="training_loss_visualization0 (3)" src="https://github.com/user-attachments/assets/1e9cc628-8071-47b7-9055-fe23dd46dcf7" />
-<img width="4629" height="3669" alt="图片15-2" src="https://github.com/user-attachments/assets/1551aba6-796f-45ac-9077-d9093f73a6f3" />
+<img width="810" height="557" alt="局部截取_20250916_193059" src="https://github.com/user-attachments/assets/55717759-e807-4d66-8ad8-4cfb468e4de6" />
+<img width="797" height="271" alt="局部截取_20250916_193613" src="https://github.com/user-attachments/assets/ae70e8df-da87-4cb2-ae41-53c65c495705" />
