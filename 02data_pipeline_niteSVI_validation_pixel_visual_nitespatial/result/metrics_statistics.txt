@@ -1,0 +1,234 @@
+Metrics Statistics:
+==================================================
+
+SSIM:
+------------------------------
+VAE:
+  Mean: 0.4201
+  Std:  0.0692
+Pix2Pix:
+  Mean: 0.5153
+  Std:  0.1111
+CycleGAN:
+  Mean: 0.4573
+  Std:  0.0651
+SD_lora:
+  Mean: 0.3377
+  Std:  0.0672
+GPT4o:
+  Mean: 0.3411
+  Std:  0.1034
+Nightdiff:
+  Mean: 0.5092
+  Std:  0.0803
+
+PSNR:
+------------------------------
+VAE:
+  Mean: 12.5081
+  Std:  1.7291
+Pix2Pix:
+  Mean: 13.0729
+  Std:  2.1832
+CycleGAN:
+  Mean: 12.1368
+  Std:  1.3721
+SD_lora:
+  Mean: 10.1742
+  Std:  1.4316
+GPT4o:
+  Mean: 10.8389
+  Std:  2.0668
+Nightdiff:
+  Mean: 12.8441
+  Std:  1.5876
+
+MSE:
+------------------------------
+VAE:
+  Mean: 4044.4350
+  Std:  1691.3507
+Pix2Pix:
+  Mean: 3705.8452
+  Std:  1812.6788
+CycleGAN:
+  Mean: 4277.6254
+  Std:  1384.0151
+SD_lora:
+  Mean: 6760.0699
+  Std:  2310.1316
+GPT4o:
+  Mean: 6131.7843
+  Std:  2962.1580
+Nightdiff:
+  Mean: 3741.2506
+  Std:  1375.5620
+
+R2:
+------------------------------
+VAE:
+  Mean: 0.2113
+  Std:  0.2223
+Pix2Pix:
+  Mean: 0.3096
+  Std:  0.3478
+CycleGAN:
+  Mean: 0.1508
+  Std:  0.1981
+SD_lora:
+  Mean: 0.0244
+  Std:  0.0914
+GPT4o:
+  Mean: 0.0020
+  Std:  0.0110
+Nightdiff:
+  Mean: 0.3819
+  Std:  0.2599
+
+LPIPS:
+------------------------------
+VAE:
+  Mean: 0.8445
+  Std:  0.0405
+Pix2Pix:
+  Mean: 0.7068
+  Std:  0.0784
+CycleGAN:
+  Mean: 0.6773
+  Std:  0.0925
+SD_lora:
+  Mean: 0.6672
+  Std:  0.0806
+GPT4o:
+  Mean: 0.6784
+  Std:  0.0838
+Nightdiff:
+  Mean: 0.5808
+  Std:  0.0717
+
+MS-SSIM:
+------------------------------
+VAE:
+  Mean: 0.1016
+  Std:  0.0754
+Pix2Pix:
+  Mean: 0.2742
+  Std:  0.1565
+CycleGAN:
+  Mean: 0.1868
+  Std:  0.1126
+SD_lora:
+  Mean: 0.1284
+  Std:  0.0776
+GPT4o:
+  Mean: 0.1439
+  Std:  0.1013
+Nightdiff:
+  Mean: 0.2765
+  Std:  0.1181
+
+Night_SA:
+------------------------------
+VAE:
+  Mean: 0.3413
+  Std:  0.0000
+Pix2Pix:
+  Mean: 0.6548
+  Std:  0.0000
+CycleGAN:
+  Mean: 0.9622
+  Std:  0.0000
+SD_lora:
+  Mean: 0.9614
+  Std:  0.0000
+GPT4o:
+  Mean: 0.9736
+  Std:  0.0000
+Nightdiff:
+  Mean: 0.9631
+  Std:  0.0000
+
+Day_SA:
+------------------------------
+VAE:
+  Mean: 0.6166
+  Std:  0.0000
+Pix2Pix:
+  Mean: 0.6627
+  Std:  0.0000
+CycleGAN:
+  Mean: 0.9598
+  Std:  0.0000
+SD_lora:
+  Mean: 0.9645
+  Std:  0.0000
+GPT4o:
+  Mean: 0.9710
+  Std:  0.0000
+Nightdiff:
+  Mean: 0.9646
+  Std:  0.0000
+
+Night_DA:
+------------------------------
+VAE:
+  Mean: 0.8839
+  Std:  0.0728
+Pix2Pix:
+  Mean: 0.8870
+  Std:  0.0621
+CycleGAN:
+  Mean: 0.8955
+  Std:  0.0646
+SD_lora:
+  Mean: 0.8872
+  Std:  0.0731
+GPT4o:
+  Mean: 0.8854
+  Std:  0.0702
+Nightdiff:
+  Mean: 0.8964
+  Std:  0.0661
+
+Day_DA:
+------------------------------
+VAE:
+  Mean: 0.8742
+  Std:  0.0717
+Pix2Pix:
+  Mean: 0.8745
+  Std:  0.0668
+CycleGAN:
+  Mean: 0.9179
+  Std:  0.0578
+SD_lora:
+  Mean: 0.9457
+  Std:  0.0410
+GPT4o:
+  Mean: 0.9209
+  Std:  0.0522
+Nightdiff:
+  Mean: 0.9481
+  Std:  0.0441
+
+Illumination_Accuracy:
+------------------------------
+VAE:
+  Mean: 0.7373
+  Std:  0.0615
+Pix2Pix:
+  Mean: 0.7983
+  Std:  0.0843
+CycleGAN:
+  Mean: 0.7692
+  Std:  0.0706
+SD_lora:
+  Mean: 0.7617
+  Std:  0.1151
+GPT4o:
+  Mean: 0.6134
+  Std:  0.0715
+Nightdiff:
+  Mean: 0.8196
+  Std:  0.0654
+
